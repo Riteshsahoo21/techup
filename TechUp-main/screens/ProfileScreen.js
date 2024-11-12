@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Image } from 'react-native';
 
 const ProfileScreen = ({ navigation }) => {
-  const [name, setName] = useState('Omm Sharma');
-  const [email, setEmail] = useState('omm.sharma2k3@gmail.com');
+  const [name, setName] = useState('ritz');
+  const [email, setEmail] = useState('ritz@gmail.com');
 
   const handleSave = () => {
     alert('Profile updated!');
