@@ -4,7 +4,6 @@
 Your one-stop shop for the best in tech
  
 
-
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1280443317779300395/1305929746172870738/Screenshot_2024-11-12-21-36-20-079_host.exp.exponent.jpg?ex=6734d15a&is=67337fda&hm=b95425a2f9b8cbc24346a73c16d6c85f977e8eb531ad59f3973bd34e53165244&)
